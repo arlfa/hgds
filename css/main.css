@@ -1,0 +1,24 @@
+.clear{
+	clear:both;
+}
+.hide{
+	display:none;
+}
+.show{
+	display:block;
+}
+
+.posfix{
+	position:fixed;
+}
+
+body{
+	background:#ffffff;
+}
+
+div{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+
